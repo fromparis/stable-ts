@@ -1,2 +1,2 @@
-stable-whisper
-git+https://github.com/jianfch/stable-ts.git
+-U stable-ts
+-U git+https://github.com/jianfch/stable-ts.git
