@@ -1,0 +1,2 @@
+stable-whisper
+git+https://github.com/jianfch/stable-ts.git
